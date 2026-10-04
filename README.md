@@ -1,9 +1,9 @@
-# AndroidBox
+# Android_Box
 
 > 一款基于 WSA 与 ADB 的轻量级安卓应用安装工具，让你无需模拟器即可在 Windows 上安装并运行 Android APK。
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2011-blue)
-![Size](https://img.shields.io/badge/Size-3GB-green)
+![Size](https://img.shields.io/badge/Size-2GB-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
 ---
@@ -14,7 +14,7 @@
 
 ### 核心亮点
 
-- 🚀 **轻量小巧**：全程仅占约 **3GB**，比传统方案节省约 40% 空间
+- 🚀 **轻量小巧**：全程仅占约 **2GB**，比传统方案节省约 40% 空间
 - 🎯 **一键安装 WSA**：内置安装引导，无需手动配置环境
 - 🛍️ **内置应用商店**：可直接从豌豆荚下载 APK，也可选择本地文件安装
 - 📟 **实时终端输出**：安装过程全程可见，失败原因一目了然
@@ -27,7 +27,7 @@
 
 | 对比项 | AndroidBox | 腾讯应用宝 |
 |--------|-----------|-----------|
-| 占用空间 | **约 3GB** | 约 5GB |
+| 占用空间 | **约 2GB** | 约 5GB |
 | 技术底层 | 直接调用 WSA + ADB | 私有引擎封装 |
 | 应用来源 | 完全开放，任意 APK | 官方分发，限制较多 |
 | 部署门槛 | 需手动配置（本教程） | 双击即用 |
