@@ -168,15 +168,13 @@
 
 ```
 AndroidBox/
-├── AndroidBox.exe      # 主程序
-├── icon-1.ico          # 程序图标
-├── icon-2.ico          # WSA 图标
-├── adb/                # ADB 工具目录（不可删除）
-│   ├── adb.exe
-│   ├── AdbWinApi.dll
-│   └── AdbWinUsbApi.dll
-└── WSA/                # WSA 安装脚本目录（不可删除）
-    └── Run.bat
+├── AndroidBox.exe
+├── icon-1.ico
+├── icon-2.ico
+├── config.ini
+├──settings.json
+├── adb/
+└── WSA/
 ```
 
 ---
