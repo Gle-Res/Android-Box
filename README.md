@@ -172,7 +172,7 @@ AndroidBox/
 ├── icon-1.ico
 ├── icon-2.ico
 ├── config.ini
-├──settings.json
+├── settings.json
 ├── adb/
 └── WSA/
 ```
